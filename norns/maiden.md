@@ -59,7 +59,7 @@ Each entry has an **INSTALL** action, which can be used to install the selected 
 
 To add to the [community project repo](https://github.com/monome/norns-community/blob/master/community.json), please submit a pull request with the following information:
 
-```
+```json
     {
       "project_name": "NAME",
       "project_url": "URL",
